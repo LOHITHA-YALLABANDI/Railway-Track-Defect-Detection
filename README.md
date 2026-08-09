@@ -35,7 +35,7 @@ The source code for controlling the system, reading sensor data, managing the ES
 | **LCD Status** | <img src="image/lcd_crack_detection_output.jpeg" width="150" alt="LCD Output"> | Real-time LCD display showing track and obstacle status. |
 | **Object Detection** | <img src="image/object_detection_output.jpeg" width="150" alt="Object Output"> | System detecting an obstacle on the path. |
 | **SMS Alert** | <img src="image/sms_alert_output.jpeg" width="150" alt="SMS Output"> | SMS notification sent with live Google Maps GPS coordinates. |
-| **Hardware Views** | <img src="image/top_view.jpeg" width="100" alt="Top View"> <img src="image/side_view.jpg" width="100" alt="Side View"> | Assembled hardware prototype views. |
+| **Hardware Views** | <img src="image/top_view.jpeg" width="100" alt="Top View"> <img src="image/side_view.jpeg" width="100" alt="Side View"> | Assembled hardware prototype views. |
 
 ---
 
@@ -54,5 +54,5 @@ The source code for controlling the system, reading sensor data, managing the ES
 
 ## 📄 Project Documentation
 
-* **Project Report:** [Download Report PDF](docs/Project_Report.pdf?raw=true)
-*
+* **Project Report:** [Download Report PDF](docs/project_report.pdf?raw=true)
+
