@@ -54,5 +54,5 @@ The source code for controlling the system, reading sensor data, managing the ES
 
 ## 📄 Project Documentation
 
-* **Project Report:** [Download Report PDF](docs/project_report.pdf?raw=true)
+* **Project Report:** [Download Report PDF](docs/project_report.pdf)
 
