@@ -42,4 +42,4 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 | **GPS Module** | ![GPS](image/components/gps.jpg) |
 | **GSM Module** | ![GSM](image/components/gsm_module.jpg) |
 | **L293D Motor Driver** | ![Motor Driver](image/components/l293d_motordriver.jpg) |
-| **LM2596 Voltage Regulator** | ![LM2596](image/components/lm2596.jpg) |
+| **LM2596 Voltage Regulator** | ![LM2596](image/components/lm2596.jpeg) |
