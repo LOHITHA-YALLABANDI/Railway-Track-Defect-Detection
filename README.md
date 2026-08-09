@@ -14,10 +14,10 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 ## 📊 System Architecture
 
 ### Block Diagram
-![Block Diagram](image/block_diagram.jpg)
+<img src="image/block_diagram.jpg" width="600" alt="Block Diagram">
 
 ### Flow Chart
-![Flow Chart](image/flow_chart.jpg)
+<img src="image/flow_chart.jpg" width="600" alt="Flow Chart">
 
 ---
 
@@ -25,11 +25,11 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 
 | Output Type | Preview | Description |
 | :--- | :---: | :--- |
-| **Crack Detection** | ![Crack Output](image/crack_image_output.jpg) | Visual inspection of track crack detection. |
-| **LCD Status** | ![LCD Output](image/lcd_crack_detection_output.jpg) | Real-time LCD display showing track and obstacle status. |
-| **Object Detection** | ![Object Output](image/object_detection_output.jpg) | System detecting an obstacle on the path. |
-| **SMS Alert** | ![SMS Output](image/sms_alert_output.jpg) | SMS notification sent with live Google Maps GPS coordinates. |
-| **Hardware Views** | ![Top View](image/top_view.jpg) ![Side View](image/side_view.jpg) | Assembled hardware prototype views. |
+| **Crack Detection** | <img src="image/crack_image_output.jpg" width="150" alt="Crack Output"> | Visual inspection of track crack detection. |
+| **LCD Status** | <img src="image/lcd_crack_detection_output.jpg" width="150" alt="LCD Output"> | Real-time LCD display showing track and obstacle status. |
+| **Object Detection** | <img src="image/object_detection_output.jpg" width="150" alt="Object Output"> | System detecting an obstacle on the path. |
+| **SMS Alert** | <img src="image/sms_alert_output.jpg" width="150" alt="SMS Output"> | SMS notification sent with live Google Maps GPS coordinates. |
+| **Hardware Views** | <img src="image/top_view.jpg" width="100" alt="Top View"> <img src="image/side_view.jpg" width="100" alt="Side View"> | Assembled hardware prototype views. |
 
 ---
 
@@ -37,17 +37,16 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 
 | Component | Preview |
 | :--- | :---: |
-| **ESP8266 NodeMCU** | ![NodeMCU](image/components/esp8266_node_mcu.jpg) |
-| **ESP32 CAM** | ![ESP32 CAM](image/components/esp32_cam.jpg) |
-| **GPS Module** | ![GPS](image/components/gps.jpg) |
-| **GSM Module** | ![GSM](image/components/gsm_module.jpg) |
-| **L293D Motor Driver** | ![Motor Driver](image/components/l293d_motordriver.jpg) |
-| **LM2596 Voltage Regulator** | ![LM2596](image/components/lm2596.jpeg) |
+| **ESP8266 NodeMCU** | <img src="image/components/esp8266_node_mcu.jpg" width="100" alt="NodeMCU"> |
+| **ESP32 CAM** | <img src="image/components/esp32_cam.jpg" width="100" alt="ESP32 CAM"> |
+| **GPS Module** | <img src="image/components/gps.jpg" width="100" alt="GPS"> |
+| **GSM Module** | <img src="image/components/gsm_module.jpg" width="100" alt="GSM"> |
+| **L293D Motor Driver** | <img src="image/components/l293d_motordriver.jpg" width="100" alt="Motor Driver"> |
+| **LM2596 Voltage Regulator** | <img src="image/components/lm2596.jpeg" width="100" alt="LM2596"> |
 
 ---
 
 ## 📄 Project Documentation
 
-The complete final project report is available in the repository:
-* **Report File:** [Download Project Report PDF](docs/project_report.pdf)
-
+* **Report File:** [View / Download Project Report (PDF)](docs/Project_Report.pdf)
+*
