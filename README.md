@@ -14,7 +14,7 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 ## 📊 System Architecture
 
 ### Block Diagram
-<img src="image/block_diagram.jpg" width="600" alt="Block Diagram">
+<img src=".image/block_diagram.jpg" width="600" alt="Block Diagram">
 
 ### Flow Chart
 <img src="image/flow_chart.jpg" width="600" alt="Flow Chart">
