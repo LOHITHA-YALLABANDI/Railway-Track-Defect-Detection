@@ -49,5 +49,5 @@ An automated IoT-based system built using NodeMCU (ESP8266) to detect railway tr
 ## 📄 Project Documentation
 
 The complete final project report is available in the repository:
-* **Report File:** [Download Project Report PDF](docs/Project_Report.pdf)
-*
+* **Report File:** [Download Project Report PDF](docs/project_report.pdf)
+
